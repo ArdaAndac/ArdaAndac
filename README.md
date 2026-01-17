@@ -47,8 +47,8 @@ Selamlar! Amasya Üniversitesi'nde **Bilgisayar Mühendisliği** okuyorum. Algor
 ### 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArdaAndac&show_icons=true&theme=radical&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdaAndac&layout=compact&theme=radical" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArdaAndac&show_icons=true&theme=radical" height="180" alt="GitHub İstatistikleri" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdaAndac&layout=compact&theme=radical" height="180" alt="En Çok Kullanılan Diller" />
 </div>
 
 ---
