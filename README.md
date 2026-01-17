@@ -18,7 +18,7 @@
 
 Selamlar! Amasya Üniversitesi'nde **Bilgisayar Mühendisliği** okuyorum. Algoritmalar ve oyun mekanikleri üzerine çalışmaktan keyif alıyorum. Şu an ana odağım **C#** ile profesyonel oyun ve yazılım mimarileri kurmak. C ve C++ ile de temel seviyede haşır neşirim.
 
-* 🔭 Şu an üzerinde çalıştığım proje: **Zombiless adlı Novel roman oyunu**
+* 🔭 Şu an üzerinde çalıştığım proje: **Zombiness adlı Novel roman oyunu**
 * 🌱 Öğrenmeye devam ettiklerim: **Advanced OOP, Design Patterns, Game Physics**
 * 🎯 Hedefim: Hikaye derinliği olan, mekaniksel olarak sağlam oyunlar geliştirmek.
 * 🎮 Favori Oyun Türlerim: RPG, Survival, Strategy.
